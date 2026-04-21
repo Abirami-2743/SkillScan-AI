@@ -18,7 +18,7 @@ An AI-powered resume screening tool for HR teams.
 - **Auth**: JWT + Magic Link Verification
 
 ## Team
-- Abiramia Nayagi S
+- Abiraminayagi S
 - Akilnila B
 - Akshara I
 - Brinda P
